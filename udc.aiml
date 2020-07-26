@@ -4,11 +4,10 @@
     <pattern>*</pattern>
     <template>
         Greetings! I am a career advisor bot that can help Computer Science students choose a career path!
-        Would you like to get started?
-    <button>
-        <text>Yes</text>
-        <postback>xgetstarted yes</postback>
-    </button>
+        <button>
+            <text>Get started</text>
+            <postback>START</postback>
+        </button>
     </template>
   </category>
 </aiml>
