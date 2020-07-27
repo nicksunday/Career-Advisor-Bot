@@ -11,7 +11,7 @@
     </template>
   </category>
   <category>
-      <pattern>XGETSTARTED YES</pattern>
+      <pattern>START</pattern>
       <that>LT BUTTON GT LT TEXT GT YES LT SLASH TEXT GT LT POSTBACK GT XGETSTARTED YES LT SLASH POSTBACK GT LT SLASH BUTTON GT</that>
       <template>Would you be interested in a career that heavily involves mathematics?
       <button>
